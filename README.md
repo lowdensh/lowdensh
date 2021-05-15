@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=3572a5)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=3572a5)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=da5b0b)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=da5b0b)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon%20aws&logoColor=white&color=da5b0b)
 
 <details>
   <summary></summary>
